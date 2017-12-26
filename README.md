@@ -1,2 +1,3 @@
 # hello-world
-Volno
+Volný prostor ..:-)
+Můžem zkusit těžit.. :-)
